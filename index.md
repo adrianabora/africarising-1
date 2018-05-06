@@ -43,7 +43,7 @@ Al-Jazeera English
 CE Noticias Financieras (English version)
 
 
-### Global Analysis
+### Global Analysis (https://github.com/adrianabora/Tweets.git) 
 - twitter network model, twitter demography of #Africarising, and global topic models with Clarisse’s graphic
 
 ### Regional Analysis
